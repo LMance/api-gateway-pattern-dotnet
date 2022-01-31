@@ -1,4 +1,4 @@
-namespace AuthorsService.Models
+namespace BooksService.Models
 {
     public class Book
     {

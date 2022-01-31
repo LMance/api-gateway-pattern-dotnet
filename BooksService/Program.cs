@@ -1,4 +1,4 @@
-using Monolith.Data;
+using BooksService.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

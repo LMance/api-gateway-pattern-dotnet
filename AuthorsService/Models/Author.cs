@@ -1,4 +1,4 @@
-namespace AuthorsService.Models
+namespace Monolith.Models
 {
     public class Author
     {

@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using AuthorsService.Data;
-using AuthorsService.Models;
+using BooksService.Data;
+using BooksService.Models;
 
-namespace AuthorsService.Controllers
+namespace Monolith.Controllers
 {
     [ApiController]
     [Route("[controller]")]
