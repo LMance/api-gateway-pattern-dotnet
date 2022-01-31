@@ -1,10 +1,10 @@
-﻿using Monolith.Models;
+﻿using AuthorsService.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Monolith.Data
+namespace AuthorsService.Data
 {
 	public class Repository
 	{

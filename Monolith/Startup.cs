@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Monolith.Data;
+using AuthorsService.Data;
 
-namespace Monolith
+namespace AuthorsService
 {
     public class Startup
     {
